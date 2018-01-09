@@ -1,1 +1,1 @@
-<?php echo "Treinamento PHP"?>
+<?php echo "PHP"?>
